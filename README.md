@@ -25,6 +25,4 @@ Here are some of the projects you’ll find in my repos:
 - [LinkedIn](https://www.linkedin.com/in/allyan-ahmad-651010209/)  
 - [Email](mailto:Allyan.jutt7605@gmail.com)  
 
----
-⭐️ *Check out my pinned repos below for the highlights of my work.*
-# Allyan-Ahmad
+
